@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saydova&label=Profile%20views&color=000000&style=flat" alt="saydova" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot(Java), ReactJS, ReactNative**
+- 🌱 I’m currently learning **SpringBoot(Java), ReactJS, ReactNative, Golang**
 
 - 👨‍💻 All of my projects are available at [saydova.com](saydova.com)
 
