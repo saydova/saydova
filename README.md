@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot(Java), ReactJS, ReactNative, Golang**
 
-- 👨‍💻 All of my projects are available at [saydova.com](saydova.com)
+- 👨‍💻 All of my projects are available at [saydova.com](www.saydova.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
