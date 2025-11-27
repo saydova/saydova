@@ -20,14 +20,6 @@ All of my projects and work samples can be found at:
 
 ---
 
-## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saydova&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saydova&show_icons=true&theme=dark&layout=compact" height="165" />
-</p>
-
----
-
 ## Connect With Me
 - **LinkedIn:** [linkedin.com/in/saydova](https://linkedin.com/in/saydova)  
 - **YouTube:** [youtube.com/c/saydovaalga](https://www.youtube.com/c/saydovaalga)  
