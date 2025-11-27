@@ -1,4 +1,4 @@
-<h1 align="center">Yoow 👋</h1>
+<h1 align="center">Yoow ✌️</h1>
 
 <p align="center">
 Just a human trying to type code without breaking the universe 😅<br>
@@ -7,5 +7,5 @@ Feel free to peek at my chaos here.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" width="300" style="border-radius: 200px;"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" width="300" style="border-radius: 20%;"/>
 </p>
