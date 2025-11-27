@@ -7,5 +7,5 @@ Feel free to peek at my chaos here.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" width="300" style="border-radius: 20px;"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" width="300" style="border-radius: 200px;"/>
 </p>
