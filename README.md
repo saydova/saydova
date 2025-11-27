@@ -1,5 +1,5 @@
 <h1 align="center">Saydova Alga Kusumah Purwonegoro</h1>
-<h3 align="center">Software Engineer | Automation & Fullstack Development</h3>
+<h3 align="center">Software Engineer | SDET</h3>
 
 ---
 
@@ -10,18 +10,15 @@ I focus on building maintainable, scalable, and efficient solutions.
 - **Automation Testing:** Katalon, Selenium, Appium, Cypress  
 - **Backend Development:** Spring Boot (Java)  
 - **Frontend Development:** React.js  
-- **Current Focus:** Improving automation frameworks, developing scalable web applications
 
 ---
 
 ## Projects & Portfolio
 All of my projects and work samples can be found at:  
-**[https://www.saydova.vercel.app](https://www.saydova.vercel.app)**
+**[saydova.vercel.app](https://saydova.vercel.app/)**
 
 ---
 
 ## Connect With Me
 - **LinkedIn:** [linkedin.com/in/saydova](https://linkedin.com/in/saydova)  
 - **YouTube:** [youtube.com/c/saydovaalga](https://www.youtube.com/c/saydovaalga)  
-- **Portfolio:** [saydova.vercel.app](https://www.saydova.vercel.app)
-
