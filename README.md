@@ -1,24 +1,8 @@
-<h1 align="center">Saydova Alga Kusumah Purwonegoro</h1>
-<h3 align="center">Software Engineer | SDET</h3>
+# Yoo 👋
 
----
+Just a human trying to type code without breaking the universe 😅
 
-## About Me
-I am a software engineer based in Jakarta, Indonesia, with experience in **test automation** and **fullstack development**.  
-I focus on building maintainable, scalable, and efficient solutions.
+Sometimes it works, sometimes it… doesn’t.
+Feel free to peek at my chaos here.
 
-- **Automation Testing:** Katalon, Selenium, Appium, Cypress  
-- **Backend Development:** Spring Boot (Java)  
-- **Frontend Development:** React.js  
-
----
-
-## Projects & Portfolio
-All of my projects and work samples can be found at:  
-**[saydova.vercel.app](https://saydova.vercel.app/)**
-
----
-
-## Connect With Me
-- **LinkedIn:** [linkedin.com/in/saydova](https://linkedin.com/in/saydova)  
-- **YouTube:** [youtube.com/c/saydovaalga](https://www.youtube.com/c/saydovaalga)  
+![Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
