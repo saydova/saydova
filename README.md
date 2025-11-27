@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot(Java), ReactJS, ReactNative, Golang**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.saydova.com" target="_blank" rel="noreferrer">saydova.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://www.saydova.vercel.app" target="_blank" rel="noreferrer">saydova.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
