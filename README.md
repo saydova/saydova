@@ -1,6 +1,6 @@
-<h1 align="center">Yoow ✌️</h1> 
-<p align="center"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" width="200" style="border-radius: 20%;"/> </p>
-<p align="center"> Just a human trying to type code without breaking the universe 😅
+<h1>Yoow ✌️</h1> 
+<p> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" width="200" style="border-radius: 20%;"/> </p>
+<p> Just a human trying to type code without breaking the universe 😅
 <br> 
 Sometimes it works, sometimes it… doesn’t.
 <br> 
